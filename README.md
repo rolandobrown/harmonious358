@@ -5,9 +5,9 @@ Harmonious 358 app
 
 This will be an app that provides people with opportunities to remember how to appreciate, accept and adjust. How to be touched, touched, and moved in ways that return Harmonious.
 
-[![harmonious 358](https://raw.githubusercontent.com/rolandobrown/harmonious358/student/img/Harmonious358.jpg?raw=true)]
+![harmonious 358](https://raw.githubusercontent.com/rolandobrown/harmonious358/student/img/harmonious358.jpg?raw=true)
 
-[![the hated the loved](https://raw.githubusercontent.com/rolandobrown/harmonious358/student/img/the-hated-the-loved.jpg?raw=true)]
+![the hated the loved](https://raw.githubusercontent.com/rolandobrown/harmonious358/student/img/the-hated-the-loved.jpg?raw=true)
 
 #Invitation
 
@@ -32,13 +32,15 @@ For example, "Love" is a result of at least two choices to create an interconnec
 
 More definitions here [definitions.rb](definitions.rb)
 
+# Contributors
+
+[Rolando Brown, Cultivator](https://github.com/rolandobrown)
+[Images by Joselina Fay](https://twitter.com/joselinafay)
+
+
+![clear](https://raw.githubusercontent.com/rolandobrown/harmonious358/student/img/clear.png?raw=true)
+
+# Contact
+
 email: rolando.brown@gmail.com
 call: 347.229.1362
-
-Contributors
-
-[Rolando Brown, Cultivator]: https://github.com/rolandobrown
-[Images by Joselina Fay]: https://twitter.com/joselinafay
-
-
-[![clear](https://raw.githubusercontent.com/rolandobrown/harmonious358/student/img/clear.png?raw=true)]
