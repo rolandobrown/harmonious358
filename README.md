@@ -3,7 +3,11 @@ Harmonious 358 app
 
 #About Harmonious 358
 
-This will be an app that provides people with opportunities to remember how to appreciate, accept and adjust. How to be touched, touched, and moved in ways that return Harmonious.
+This app will provide people with opportunities to remember how to appreciate, accept and adjust. How to be touched, touched, and moved in ways that return Harmonious.
+
+This app outlines operating system of a remembered Universe. Presents agreements, definitions, rules, relationships, characters, and significant events. These function as reference points and inform readers about the operating system that governs a short story named The Hated / The Loved. 
+
+This app facilitates somatic assessment, advancement and alignment of users through a "choose your own guided adventure" style Transmedia Storytelling experience that involves people, remembrances and programmable robots.
 
 ![harmonious 358](https://raw.githubusercontent.com/rolandobrown/harmonious358/student/img/harmonious358.jpg?raw=true)
 
