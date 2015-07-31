@@ -1,0 +1,1 @@
+puts "Characters like Zenobia, Gideon, Nubiaa, and Sagacious struggle to appreciate, accept and adjust. The degree to which these definitions, relationships and characters are accepted or rejected influence the way the short story is generally experienced."
