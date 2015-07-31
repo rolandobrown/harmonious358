@@ -5,9 +5,9 @@ Harmonious 358 app
 
 This will be an app that provides people with opportunities to remember how to appreciate, accept and adjust. How to be touched, touched, and moved in ways that return Harmonious.
 
-[![harmonious 358](https://github.com/rolandobrown/harmonious358/raw/student/img/Harmonious358.jpg?raw=true)]
+[![harmonious 358](https://raw.githubusercontent.com/rolandobrown/harmonious358/student/img/Harmonious358.jpg?raw=true)]
 
-[![the hated the loved](https://github.com/rolandobrown/harmonious358/raw/student/img/the-hated-the-loved.jpg?raw=true)]
+[![the hated the loved](https://raw.githubusercontent.com/rolandobrown/harmonious358/student/img/the-hated-the-loved.jpg?raw=true)]
 
 #Invitation
 
@@ -41,4 +41,4 @@ Contributors
 [Images by Joselina Fay]: https://twitter.com/joselinafay
 
 
-[![clear](https://github.com/rolandobrown/harmonious358/raw/student/img/clear.png?raw=true)]
+[![clear](https://raw.githubusercontent.com/rolandobrown/harmonious358/student/img/clear.png?raw=true)]
