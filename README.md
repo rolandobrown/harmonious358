@@ -35,12 +35,13 @@ More definitions here [definitions.rb](definitions.rb)
 # Contributors
 
 [Rolando Brown, Cultivator](https://github.com/rolandobrown)
-[Images by Joselina Fay](https://twitter.com/joselinafay)
 
+[Images by Joselina Fay](https://twitter.com/joselinafay)
 
 ![clear](https://raw.githubusercontent.com/rolandobrown/harmonious358/student/img/clear.png?raw=true)
 
 # Contact
 
 email: rolando.brown@gmail.com
+
 call: 347.229.1362
