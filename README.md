@@ -49,3 +49,11 @@ More definitions here [definitions.rb](definitions.rb)
 email: rolando.brown@gmail.com
 
 call: 347.229.1362
+
+# Copyright Notice
+
+“&copy;” 2015 Made To Grow LLC. All rights reserved. Unless otherwise indicated, all materials on these pages are copyrighted by Made To Grow LLC.
+
+# License
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
