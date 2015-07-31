@@ -5,7 +5,7 @@ Harmonious 358 app
 
 This app will provide people with opportunities to remember how to appreciate, accept and adjust. How to be touched, how to touch, and how to move in ways that return Harmonious.
 
-This app outlines operating system of a remembered Universe. Presents agreements, definitions, rules, relationships, characters, and significant events. These function as reference points and inform readers about the operating system that governs a short story named The Hated / The Loved. 
+This app outlines the operating system of a remembered Universe. Presents agreements, definitions, rules, relationships, characters, and significant events. These function as reference points and inform readers about the operating system that governs a short story named The Hated / The Loved. 
 
 This app facilitates somatic assessment, advancement and alignment of users through a "choose your own guided adventure" style Transmedia Storytelling experience that involves people, remembrances and programmable robots.
 
