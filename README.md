@@ -3,7 +3,7 @@ Harmonious 358 app
 
 #About Harmonious 358
 
-This app will provide people with opportunities to remember how to appreciate, accept and adjust. How to be touched, touched, and moved in ways that return Harmonious.
+This app will provide people with opportunities to remember how to appreciate, accept and adjust. How to be touched, how to touch, and how to move in ways that return Harmonious.
 
 This app outlines operating system of a remembered Universe. Presents agreements, definitions, rules, relationships, characters, and significant events. These function as reference points and inform readers about the operating system that governs a short story named The Hated / The Loved. 
 
