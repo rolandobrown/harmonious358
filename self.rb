@@ -5,23 +5,23 @@ self # main
 ### Life
 
 class Human
-  attr_reader :name
+  attr_reader :name  # => nil
 
-  self
+  self  # => Human
 
   def Human.create_by_name(name) ## singleton method
     self
   end
 
   def self.create_by_name(name)
-    new(name)
+    new(name)                    # => Human with a name of Purple Ray Kolker-Brown, Human with a name of Rolando Brown
   end
 
   def initialize(name)
-    @name = name
+    @name = name        # => "Rolando Brown", "Purple Ray Kolker-Brown", "Rolando Brown"
   end
 
-  puts "Hi, welcome to Life."
+  puts "Hi, welcome to Life."  # => nil
 
   def define
     self
@@ -33,7 +33,7 @@ class Human
   end
 
   def inspect
-    "Human with a name of #{name}"
+    "Human with a name of #{name}"  # => "Human with a name of Rolando Brown", "Human with a name of Purple Ray Kolker-Brown", "Human with a name of Purple Ray Kolker-Brown", "Human with a name of Rolando Brown", "Human with a name of Rolando Brown"
   end
 
   # def redefine
@@ -46,14 +46,14 @@ class Human
 
 end
 
-puts rolando_brown = Human.new("Rolando Brown")
-puts rolando_brown.class.create_by_name("Purple Ray")
-puts Human.create_by_name("Rolando Brown")
+rolando_brown = Human.new("Rolando Brown")                     # => Human with a name of Rolando Brown
+rolando_brown.class.create_by_name("Purple Ray Kolker-Brown")  # => Human with a name of Purple Ray Kolker-Brown
+Human.create_by_name("Rolando Brown")                          # => Human with a name of Rolando Brown
 
 # #<Human:0x007f82130d1d98> initial return of memory location when Rolando ran ruby self.rb in Terminal.
 
-"Self"
-"^ is the object of the memory location. not the memory location"
+"Self"                                                             # => "Self"
+"^ is the object of the memory location. not the memory location"  # => "^ is the object of the memory location. not the memory location"
 
 ## Wednesday, August 5, 2015 10:030 am
 
@@ -66,4 +66,6 @@ puts Human.create_by_name("Rolando Brown")
 
 # Meditate on the Buddha's teaching on anattā, or "No-Self"
 
-puts "No-self == undefined"
+"No-self == undefined"  # => "No-self == undefined"
+
+# >> Hi, welcome to Life.

@@ -5,7 +5,7 @@ Harmonious 358 app
 
 This app will provide people with opportunities to remember how to appreciate, accept and adjust. How to be touched, how to touch, and how to move in ways that return Harmonious.
 
-This app outlines the operating system of a remembered Universe. Presents agreements, definitions, rules, relationships, characters, and significant events. These function as reference points and inform readers about the operating system that governs a short story named The Hated / The Loved. 
+This app outlines the operating system of a remembered Universe. Presents agreements, definitions, rules, relationships, characters, and significant events. These function as reference points and inform readers about the operating system that governs a short story named The Hated / The Loved.
 
 This app facilitates somatic assessment, advancement and alignment of users through a "choose your own guided adventure" style Transmedia Storytelling experience that involves people, remembrances and programmable robots.
 
@@ -20,14 +20,14 @@ This here is an invitation to witness the remembrance of two bodies of work—my
 
 The manuscript is entitled "Harmonious 358. " Harmonious 358 is a guidebook that outlines the operating system of a Universe. It presents a set of agreements, definitions, rules, methods, relationships, characters, and significant events within a Universe. These all serve as reference points, and inform readers about the operating system and exchanges that govern the corresponding short story.
 
-The short story is entitled "The Hated / The Loved." In essence, it's about the appreciation of love and the adjustment of fear. Love and Fear are defined as results in the short story, and these results are explored through the choices several complex characters confront as they pursue physical, emotional, mental and spiritual Harmony. 
+The short story is entitled "The Hated / The Loved." In essence, it's about the appreciation of love and the adjustment of fear. Love and Fear are defined as results in the short story, and these results are explored through the choices several complex characters confront as they pursue physical, emotional, mental and spiritual Harmony.
 
-The short story recalls a complex process many of us have forgotten. It recalls how a Universe, and an interconnected body of beings, first experience the consequence of choosing Separation. It recalls the subsequent choices that all decedent forms of matter have made in an effort to echo Love, Fear, and/or the processes of Appreciation, Acceptance, and Adjustment. 
+The short story recalls a complex process many of us have forgotten. It recalls how a Universe, and an interconnected body of beings, first experience the consequence of choosing Separation. It recalls the subsequent choices that all decedent forms of matter have made in an effort to echo Love, Fear, and/or the processes of Appreciation, Acceptance, and Adjustment.
 
 My intention is to normalize a ritualized remembering of Love. Upon completion of these two reference points, I'm inviting 11 Artists to write their own short stories in response to the manuscript. I'm also inviting 364 people to serve as first-hand witnesses.
 
 To be a witness in this process is to be more than a reader. It is to be gracefully presented with choices to appreciate or adjust. Witnesses are asked to read the manuscript, the short story, and become the initial responders to both bodies of work. In some cases this will mean offering feedback. In other cases, this will mean more. In all cases, Witnesses will receive the manuscript, the short story and keys to a few significant events.
-   
+
 This here is an invitation. I present this invitation knowing that your actions will influence my personal remembering of these bodies of work. They also influence the memories of every single body that responds to Harmonious 358 & The Hated/The Loved.
 
 More than a creation story, it's a remembrance story. It's an invitation to remember. The manuscript and the short story asks us to accept a few foundational redefinitions.
