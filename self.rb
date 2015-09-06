@@ -57,7 +57,7 @@ Human.create_by_name("Rolando Brown")                          # => Human with a
 
 ## Wednesday, August 5, 2015 10:030 am
 
-# stevennunez: "this returns the object of a memory location, not a memory locaiton. You can never get back a memory location."
+# stevennunez: "this returns the object of a memory location, not a memory location. You can never get back a memory location."
 # rolandobrown: "where can I go to learn as much as possible about who made the choice that you can't get a memory location back?"
 # stevennunez: "first stop asking questions like that. that question, and questions like that are rabbit holes. first, @yukihiro_matz decided, and second questions like that won't make you a better programmer."
 # rolandobrown: "thank you" ## (note to self: steven is a remarkable teacher. Listen to him until you become a great programmer. After that, figure out why you can never get back the memory location of an object)
