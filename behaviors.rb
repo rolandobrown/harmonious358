@@ -1,5 +1,19 @@
 ## BEHAVIORS # This needs help.
 
+# DR questions:
+# => what is 'good' behavior? what is 'harmonious' behavior?
+# => are these the same thing? which behaviors are in tune with the way?
+# => what does it mean to 'forget' in Ruby? how is this distinct from 'deletion'?
+# => each choice and/or behavior should move time forward; else, how can forgetting calcify into separation and hatred?
+# => types of behavior(?):
+# =>  harmonious
+# =>  separated(?)
+# =>  loving
+# =>  hateful
+# =>  forgetful
+# =>  present
+# =>  etc.
+
 class Human
 
   ALLOWABLE_NAMES = "Rolando"  # => "Rolando"
