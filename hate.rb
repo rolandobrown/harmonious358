@@ -1,1 +1,1 @@
-# Hate is the fundemantal inability to remember.
+# Hate is the fundamental inability to remember.

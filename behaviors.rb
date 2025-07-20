@@ -30,7 +30,7 @@ Human.motd
 rolando = Human.new("Rolando")
 rolando.motd
 
-# Costants. Constants are never to be changed.
+# Constants. Constants are never to be changed.
 
 Math.PI
 
