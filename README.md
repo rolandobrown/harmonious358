@@ -40,7 +40,7 @@ More definitions here [definitions.rb](definitions.rb)
 
 [Rolando Brown, Cultivator](https://github.com/rolandobrown)
 
-[Images by Joselina Fay](https://twitter.com/joselinafay)
+[Harmonious 358 images by Joselina Fay](https://twitter.com/joselinafay)
 
 ![clear](https://raw.githubusercontent.com/rolandobrown/harmonious358/student/img/clear.png?raw=true)
 
