@@ -47,7 +47,7 @@ DEFINITIONS = {
   :pain_and_pleasure => "Pain and pleasure are methods that insert, push, pop, and otherwise transform or, codify people. Pain is not inherent, although it can be inherited",
   :good_and_bad => "Good and bad are functions of those looking for Utility (i.e., this is Useful, this not Useful)",
   :all_information_is => "All information is stored genetically",
-  :010101010101010101_is_expression => "010101010101010101 is expression of a progression towards Harmonious",
+  :expression => "010101010101010101 is expression of a progression towards Harmonious",
   :story_is_effort => "Story is effort to remember, recollect, distribute, redistribute and codify",
   :vocabulary_is_meant => "Vocabulary is meant to help connect you, not convince you",
   :the_strongest_operating => "The strongest operating agreements are connectors and disconnectors",
@@ -61,4 +61,3 @@ DEFINITIONS = {
 DEFINITIONS.each_with_index do |(key, definition), index|
   puts "#{index} => #{key}: #{definition}"
 end
-
